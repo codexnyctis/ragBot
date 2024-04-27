@@ -1,4 +1,3 @@
-# ragBot
 # RagBot
 
 RagBot is an AI-powered chatbot that provides information and assistance to users based on a predefined context. It uses Streamlit for the user interface, Langchain for document processing and retrieval, and Hugging Face Transformers for sentence embeddings.
