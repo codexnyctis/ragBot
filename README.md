@@ -73,7 +73,7 @@ Before running RagBot, ensure that you have the following:
 
 ## Customization
 
-- To modify RagBot's behavior or add more functionality, you can update the code in `ragbot.py`.
+- To modify RagBot's behavior or add more functionality, you can update the code in `ragBot.py`.
 - To change the predefined questions and answers, modify the `data.json` file.
-- You can customize the LLMs and models used by modifying the relevant code sections in `ragbot.py`.
+- You can customize the LLMs and models used by modifying the relevant code sections in `ragBot.py`.
 
