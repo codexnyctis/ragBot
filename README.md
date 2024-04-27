@@ -31,21 +31,13 @@ Before running RagBot, ensure that you have the following:
    cd ragBot
    ```
 
-3. Create a virtual environment (optional but recommended):
-
-   ```
-   python -m venv venv
-   source venv/bin/activate  # For Unix/Linux
-   venv\Scripts\activate  # For Windows
-   ```
-
-4. Install the required dependencies:
+3. Install the required dependencies:
 
    ```
    pip install -r requirements.txt
    ```
 
-5. Create a `.env` file in the project directory and add your OpenAI API key:
+4. Create a `.env` file in the project directory and add your OpenAI API key:
 
    ```
    OPENAI_API_KEY=your-api-key
